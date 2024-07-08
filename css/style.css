@@ -1,0 +1,70 @@
+li{
+    text-align:left;  
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    background-color: black;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+    border: firebrick;
+    width: 1000px;
+    background-color: navajowhite;
+}
+
+a[target="_blank"]{
+    color: purple;
+}
+
+a:hover{
+    color:red
+}
+
+a:active{
+    color:green
+}
+
+a:visited{
+    color:black
+}
+
+
+th{
+    text-decoration: aqua;
+}
+
+body{
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-periodico-viejo-endecha-plana_23-2149318885.jpg?w=996&t=st=1720367936~exp=1720368536~hmac=15764d0a22c0e854c25ef8018cba0f4a9b9c21205dca1c69b2c0f8a10e11ac08);
+}
+
+h2{
+    background-color: rgb(0, 255, 119);
+    font-size: 30px;
+}
+
+img{
+    width: 190px; height: 150px; 
+}
+
+.imag{
+    width: 210px; height: 130px;
+}
+
+.mundo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+li{
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+th.mundo:active{
+    background-color: blueviolet;
+}

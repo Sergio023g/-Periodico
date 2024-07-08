@@ -1,0 +1,55 @@
+h1{
+    background-color: aqua;
+    color: purple;
+}
+
+h3{
+    background-color: blueviolet;
+    color: lime;
+}
+
+p.especial{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 15px;
+}
+
+strong:hover{
+    color: blueviolet;
+}
+
+h3:hover{
+    font-size: 20px;
+    background-color: orange;
+}
+
+del:hover{
+    text-decoration: none;
+}
+
+em{
+    color:blueviolet;
+}
+
+em:active{
+    color: aqua;
+}
+
+sub{
+    color:brown;
+}
+
+sub:hover{
+    color: cornflowerblue;
+}
+
+sup{
+    color: blue;
+}
+
+sup:active{
+    color: darkgreen;
+}
+
+body{
+    background-color: cadetblue;
+}
